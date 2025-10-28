@@ -1,0 +1,40 @@
+ADGM Company Incorporation Checklist (For RAG)
+
+Process: Company Incorporation in ADGM
+
+Required Documents:
+1. Articles of Association (AoA)
+   - Must include ADGM jurisdiction clause
+   - Must define share capital and shareholder rights
+
+2. Memorandum of Association (MoA)
+   - Must state the company's name, registered office, and objects clause
+   - Signed by all initial shareholders
+
+3. Incorporation Application Form (Form ACA1)
+   - Completed and signed
+   - Includes details of company, directors, UBOs
+
+4. UBO Declaration Form
+   - One per beneficial owner
+   - Must include proof of identity and address
+
+5. Register of Members and Directors (Initial)
+   - List of all directors and shareholders
+   - Appointment dates and shareholdings
+
+6. Proof of Registered Office in ADGM
+   - Lease agreement or service provider letter
+
+Note: All documents must:
+- Be in English or officially translated
+- Use ADGM-specific templates where applicable
+- Not reference UAE Federal Courts — only ADGM Courts
+
+Common Red Flags:
+- Jurisdiction clause refers to "Dubai Courts" or "UAE Courts"
+- Missing UBO information
+- Unsigned forms
+- Ambiguous clauses like "to be decided later"
+
+Source: https://www.adgm.com/setting-up-in-adgm/types-of-entities

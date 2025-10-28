@@ -1,0 +1,36 @@
+ADGM Companies Regulations 2020 - Summary for RAG
+
+Article 6 – Registered Office
+Every company must have a registered office located within ADGM.
+
+Article 17 – Articles of Association (AoA)
+The AoA must:
+- Be in writing and signed by all subscribers.
+- Specify that the jurisdiction of the company is ADGM.
+- State the company’s objects (if not unlimited).
+- Define share capital structure clearly.
+- Include provisions for shareholder meetings and voting.
+
+Article 21 – Ultimate Beneficial Owner (UBO) Declaration
+All companies must file a UBO declaration with full details including:
+- Full legal name
+- Date of birth
+- Nationality
+- Residential address
+- Percentage of ownership or control
+
+Article 35 – Register of Members and Directors
+Each company must maintain an up-to-date internal register containing:
+- Names, addresses, nationalities of members and directors
+- Dates of appointment and cessation
+- Shareholding percentages
+This register must be available for inspection at the registered office.
+
+Article 42 – Jurisdiction
+All disputes arising from the company’s operations or governance shall be subject to the exclusive jurisdiction of the ADGM Courts.
+
+Article 48 – Amendments to AoA
+Any amendment to the Articles of Association must be approved by a special resolution (75% majority) and filed with the Registrar.
+
+Source: https://www.adgm.com/setting-up-in-adgm/registers-and-filings/companies-regulations
+Last updated: May 2023

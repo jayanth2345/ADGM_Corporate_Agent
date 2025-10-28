@@ -1,0 +1,26 @@
+ADGM Authority (ACA) Rules – Key Compliance Points
+
+Rule 4.1 – Ultimate Beneficial Ownership (UBO)
+- A UBO is any individual who owns or controls more than 25% of shares or voting rights.
+- If no one exceeds 25%, the senior managing officer is deemed the UBO.
+- UBO information must be current and verified annually.
+
+Rule 5.3 – Record Keeping
+- Companies must retain all corporate records for at least 6 years.
+- Records include minutes, registers, resolutions, and filings.
+
+Rule 7.2 – Board Resolutions
+- Ordinary resolutions require simple majority.
+- Special resolutions (e.g., changing AoA) require 75% approval.
+- All resolutions must be recorded with date, attendees, and outcome.
+
+Rule 8.1 – Change of Registered Office
+- Must notify ADGM Registrar within 14 days.
+- Submit Form COA1 along with proof of new address.
+
+Rule 9.4 – Licensing Requirements
+- Financial services, crypto, and advisory firms require separate licensing from FSRA.
+- Operating without license is a criminal offense.
+
+Source: ADGM Regulatory Guidance, FSRA & ACA Handbooks
+URL: https://www.adgm.com/regulation/regulatory-guidance
